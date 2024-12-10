@@ -1,2 +1,2 @@
-# angular-pipe-custom
-angular-pipe [ predefined and customs ]
+# angular-directive-custom
+angular-directive [ predefined and customs ]
